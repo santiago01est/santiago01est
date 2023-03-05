@@ -1,8 +1,19 @@
-# Hola, mi nombre es Santiago Estrada 👋
+# Hello, I'm Santiago Estrada 👋
 
-Soy **estudiante de ingeniería de sistemas** apasionado por el mundo de la tecnología. Con amplios conocimientos en desarrollo y diseño, he realizado proyectos en diversos campos, desde **desarrollo de software empresarial** hasta la creación de **aplicaciones** para **educación y entretenimiento**.
+I am a **systems engineering student** passionate about the world of technology. With extensive knowledge in development and design, I have done projects in various fields, from **enterprise software development** to the creation of **applications** for **education and entertainment**.
 
-He trabajado con diversos lenguajes de programación entre ellos: **Java**, **C**,**Python**, **Dart** and **Go**.
+## Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,dart,go)](https://skillicons.dev)
+
+## Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,eclipse,figma,linux,spring)](https://skillicons.dev)
+
+## Databases
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,aws,sqlite)](https://skillicons.dev)
+
 
 | Comando | Descripción |
 | :---: | :---: |
