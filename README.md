@@ -27,17 +27,6 @@ I am a **systems engineering student** passionate about the world of technology.
 * 🎨Interface design.
 * ✏️Constant study and learning.
 
-| Comando | Descripción |
-| :---: | :---: |
-| ls | listar el contenido de un directorio en la terminal |
-| cd |  cambiar el directorio actual de trabajo en la terminal |
-| clear | limpiar la pantalla de la terminal y eliminar todo el contenido previo en la pantalla |
-| grep |  buscar patrones en un archivo o en una cadena de texto (búsqueda) |
-| cat | mostrar el contenido de uno o varios archivos de texto en la pantalla de la terminal |
-| echo |  imprimir texto en la pantalla de la terminal desde un script y tambien sirve para la creación de archivos |
-| cl |  alias para el comando clear |
-| findd |  alias para: **ls ~/ | grep $1** en donde se realiza una búsqueda de un token que se envía por parámetro en el directorio home |
-
 
 <!--
 **santiago01est/santiago01est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
