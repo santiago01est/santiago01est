@@ -9,7 +9,7 @@ I am a **systems engineering student** passionate about the world of technology.
 
 ## Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,dart,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,python,dart,go)](https://skillicons.dev)
 
 ## Tools:
 
