@@ -3,9 +3,9 @@
 I am a **systems engineering student** passionate about the world of technology. With extensive knowledge in development and design, I have done projects in various fields, from **enterprise software development** to the creation of **applications** for **education and entertainment**.
 
 ## Contact Information
-🌐 [Portafolio Web](https://santiago-estrada.web.app)
-📧 Email: santiago01est@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/santiago-estrada-52793721a/)
+* 🌐 [Portafolio Web](https://santiago-estrada.web.app)
+* 📧 Email: santiago01est@gmail.com
+* 💼 [LinkedIn](https://www.linkedin.com/in/santiago-estrada-52793721a/)
 
 
 ## Languages:
