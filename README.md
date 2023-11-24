@@ -4,17 +4,17 @@ I am a **systems engineering student** passionate about the world of technology.
 
 ## Contact Information
 * 🌐 [Portafolio Web](https://santiago-estrada.web.app)
-* 📧 Email: santiago01est@gmail.com
+* 📧 Email: santiagoestrada.dev@gmail.com
 * 💼 [LinkedIn](https://www.linkedin.com/in/santiago-estrada-52793721a/)
 
 
 ## Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,dart,kotlin,c,python,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,dart,c,python,go)](https://skillicons.dev)
 
 ## Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,vscode,github,docker,eclipse,figma,linux,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,androidstudio,vscode,github,docker,eclipse,figma,linux,spring)](https://skillicons.dev)
 
 ## Databases:
 
@@ -22,11 +22,11 @@ I am a **systems engineering student** passionate about the world of technology.
 
 ## interests:
 
-* 📱Mobile development.
 * 💻Programming.
+* 🎨Interface design (UI/UX).
 * 📱🌐Cross-platform application development
 * 🌐Web development.
-* 🎨Interface design.
+
 * ✏️Constant study and learning.
 
 
